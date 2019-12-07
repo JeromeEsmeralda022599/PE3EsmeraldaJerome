@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ANDROID OS VERSIONS</string>
+
+    <string-array name="apis">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+    </string-array>
+
+    <string-array name="versions">
+        <item>Ver. 1.5</item>
+        <item>Ver. 1.6</item>
+        <item>Ver. 2.0-2.1</item>
+        <item>Ver. 2.2-2.2.3</item>
+        <item>Ver. 2.3-2.3.7</item>
+        <item>Ver. 3.0–3.2.6</item>
+        <item>Ver. 4.0–4.0.4</item>
+        <item>Ver. 4.1–4.3.1</item>
+        <item>Ver. 4.4–4.4.4</item>
+        <item>Ver. 5.0–5.1.1</item>
+        <item>Ver. 6.0–6.0.1</item>
+        <item>Ver. 7.0–7.1.2</item>
+        <item>Ver. 8.0–8.1</item>
+        <item>Ver. 9.0</item>
+        <item>Ver. 10.0</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>API Level 3</item>
+        <item>API Level 4</item>
+        <item>API Level 5-7</item>
+        <item>API Level 8</item>
+        <item>API Level 9-10</item>
+        <item>API Level 11-13</item>
+        <item>API Level 14-15</item>
+        <item>API Level 16-18</item>
+        <item>API Level 19-20</item>
+        <item>API Level 21-22</item>
+        <item>API Level 23</item>
+        <item>API Level 24-25</item>
+        <item>API Level 26-27</item>
+        <item>API Level 28</item>
+        <item>API Level 29</item>
+    </string-array>
+
+    <string-array name="relDate">
+        <item>Released April 27, 2009</item>
+        <item>Released September 15, 2009</item>
+        <item>Released October 26, 2009</item>
+        <item>Released May 20, 2010</item>
+        <item>Released December 6, 2010</item>
+        <item>Released February 22, 2011</item>
+        <item>Released October 18, 2011</item>
+        <item>Released July 9, 2012</item>
+        <item>Released October 31, 2013</item>
+        <item>Released November 12, 2014</item>
+        <item>Released October 5, 2015</item>
+        <item>Released August 22, 2016</item>
+        <item>Released August 21, 2017</item>
+        <item>Released August 6, 2018</item>
+        <item>Released September 3, 2019</item>
+    </string-array>
+
+</resources>
